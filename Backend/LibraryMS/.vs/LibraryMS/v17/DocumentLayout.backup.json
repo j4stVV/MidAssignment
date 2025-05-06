@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\MidAssignment\\Backend\\LibraryMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1C8DC99-12AC-454B-B9E1-700E264E204D}|LibraryMS\\LibraryMS.csproj|d:\\midassignment\\backend\\libraryms\\libraryms\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1C8DC99-12AC-454B-B9E1-700E264E204D}|LibraryMS\\LibraryMS.csproj|solutionrelative:libraryms\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{130CD706-ECDC-45A6-A297-576A8B4F0134}|Lib.Infrastructure\\Lib.Infrastructure.csproj|d:\\midassignment\\backend\\libraryms\\lib.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{130CD706-ECDC-45A6-A297-576A8B4F0134}|Lib.Infrastructure\\Lib.Infrastructure.csproj|solutionrelative:lib.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C8DC99-12AC-454B-B9E1-700E264E204D}|LibraryMS\\LibraryMS.csproj|d:\\midassignment\\backend\\libraryms\\libraryms\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C8DC99-12AC-454B-B9E1-700E264E204D}|LibraryMS\\LibraryMS.csproj|solutionrelative:libraryms\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{130CD706-ECDC-45A6-A297-576A8B4F0134}|Lib.Infrastructure\\Lib.Infrastructure.csproj|d:\\midassignment\\backend\\libraryms\\lib.infrastructure\\services\\refreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -107,13 +107,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\MidAssignment\\Backend\\LibraryMS\\LibraryMS\\Controller\\CategoryController.cs",
               "RelativeDocumentMoniker": "LibraryMS\\Controller\\CategoryController.cs",
               "ToolTip": "D:\\MidAssignment\\Backend\\LibraryMS\\LibraryMS\\Controller\\CategoryController.cs",
               "RelativeToolTip": "LibraryMS\\Controller\\CategoryController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwAoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T08:37:01.972Z",
               "EditorCaption": ""
@@ -146,13 +146,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\MidAssignment\\Backend\\LibraryMS\\Lib.Infrastructure\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Lib.Infrastructure\\Services\\AuthService.cs",
               "ToolTip": "D:\\MidAssignment\\Backend\\LibraryMS\\Lib.Infrastructure\\Services\\AuthService.cs",
               "RelativeToolTip": "Lib.Infrastructure\\Services\\AuthService.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAkwI8AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAA5wJoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T07:45:29.268Z",
               "EditorCaption": ""

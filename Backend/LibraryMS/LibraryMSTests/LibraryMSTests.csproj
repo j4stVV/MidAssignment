@@ -32,8 +32,4 @@
     <ProjectReference Include="..\LibraryMS\LibraryMS.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repositories\" />
-  </ItemGroup>
-
 </Project>

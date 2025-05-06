@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -91,6 +91,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -102,8 +106,7 @@
               "RelativeToolTip": "LibraryMSTests\\Controllers\\AuthControllerTests.cs",
               "ViewState": "AgIAAJoAAAAAAAAAAAAmwGAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T06:22:46.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T06:22:46.085Z"
             },
             {
               "$type": "Document",
@@ -115,8 +118,7 @@
               "RelativeToolTip": "LibraryMS\\Controller\\CategoryController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T08:37:01.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T08:37:01.972Z"
             },
             {
               "$type": "Document",
@@ -128,8 +130,7 @@
               "RelativeToolTip": "Lib.Infrastructure\\Services\\RefreshTokenService.cs",
               "ViewState": "AgIAABEAAAAAAAAAAMAowCEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T07:42:02.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T07:42:02.828Z"
             },
             {
               "$type": "Document",
@@ -141,8 +142,7 @@
               "RelativeToolTip": "LibraryMSTests\\Controllers\\CategoryControllerTests.cs",
               "ViewState": "AgIAAGIAAAAAAAAAAAAqwHQAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T08:46:50.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T08:46:50.929Z"
             },
             {
               "$type": "Document",
@@ -152,7 +152,7 @@
               "RelativeDocumentMoniker": "Lib.Infrastructure\\Services\\AuthService.cs",
               "ToolTip": "D:\\MidAssignment\\Backend\\LibraryMS\\Lib.Infrastructure\\Services\\AuthService.cs",
               "RelativeToolTip": "Lib.Infrastructure\\Services\\AuthService.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAA5wJoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAgwJoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T07:45:29.268Z",
               "EditorCaption": ""
@@ -167,8 +167,7 @@
               "RelativeToolTip": "Lib.Infrastructure\\Services\\BookBorrowingRequestService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T08:10:36.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T08:10:36.973Z"
             },
             {
               "$type": "Document",
@@ -180,8 +179,7 @@
               "RelativeToolTip": "Lib.Infrastructure\\Services\\CategoryService.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAuwHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T08:37:21.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T08:37:21.585Z"
             },
             {
               "$type": "Document",
@@ -193,8 +191,7 @@
               "RelativeToolTip": "LibraryMSTests\\Controllers\\BorrowingRequestControllerTests.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAYwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T08:59:31.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T08:59:31.322Z"
             },
             {
               "$type": "Document",
@@ -206,8 +203,7 @@
               "RelativeToolTip": "LibraryMSTests\\Controllers\\BookControllerTests.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAAwwI8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T07:25:40.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T07:25:40.163Z"
             },
             {
               "$type": "Document",
@@ -219,8 +215,7 @@
               "RelativeToolTip": "Lib.Domain\\Entities\\RefreshToken.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T08:14:58.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T08:14:58.739Z"
             },
             {
               "$type": "Document",
@@ -232,8 +227,7 @@
               "RelativeToolTip": "LibraryMS\\Controller\\BorrowingRequestController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAqwCkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T08:49:22.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T08:49:22.671Z"
             },
             {
               "$type": "Document",
@@ -245,8 +239,7 @@
               "RelativeToolTip": "Lib.Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T07:50:04.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T07:50:04.748Z"
             },
             {
               "$type": "Document",
@@ -258,8 +251,7 @@
               "RelativeToolTip": "LibraryMS\\Controller\\BookController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T07:23:39.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T07:23:39.89Z"
             },
             {
               "$type": "Document",
@@ -271,8 +263,7 @@
               "RelativeToolTip": "LibraryMS\\Controller\\AuthController.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAkwDoAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T07:58:04.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T07:58:04.631Z"
             },
             {
               "$type": "Document",
@@ -284,8 +275,7 @@
               "RelativeToolTip": "LibraryMS\\Middleware\\ExceptionHandlingMiddleware.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAYwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T07:51:19.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T07:51:19.824Z"
             },
             {
               "$type": "Document",
@@ -297,8 +287,7 @@
               "RelativeToolTip": "Lib.Application\\Dtos\\AuthDto\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T07:50:33.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T07:50:33.892Z"
             },
             {
               "$type": "Document",
@@ -310,8 +299,7 @@
               "RelativeToolTip": "Lib.Application\\Validators\\BookValidators\\BookValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T07:51:02.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T07:51:02.526Z"
             },
             {
               "$type": "Document",
@@ -323,8 +311,7 @@
               "RelativeToolTip": "LibraryMS\\Program.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAADwv2gAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T07:52:56.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T07:52:56.501Z"
             }
           ]
         },
