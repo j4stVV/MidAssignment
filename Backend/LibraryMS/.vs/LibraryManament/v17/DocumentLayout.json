@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MidAssignment\\Backend\\LibraryManament\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C8DC99-12AC-454B-B9E1-700E264E204D}|LibraryManament\\LibraryManament.csproj|d:\\midassignment\\backend\\librarymanament\\librarymanament\\controller\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C8DC99-12AC-454B-B9E1-700E264E204D}|LibraryManament\\LibraryManament.csproj|solutionrelative:librarymanament\\controller\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C8DC99-12AC-454B-B9E1-700E264E204D}|LibraryManament\\LibraryManament.csproj|d:\\midassignment\\backend\\librarymanament\\librarymanament\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C8DC99-12AC-454B-B9E1-700E264E204D}|LibraryManament\\LibraryManament.csproj|solutionrelative:librarymanament\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9892B8D-4FEA-4756-B2E6-29B9323FCCA6}|Lib.Application\\Lib.Application.csproj|d:\\midassignment\\backend\\librarymanament\\lib.application\\dtos\\authdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9892B8D-4FEA-4756-B2E6-29B9323FCCA6}|Lib.Application\\Lib.Application.csproj|solutionrelative:lib.application\\dtos\\authdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9892B8D-4FEA-4756-B2E6-29B9323FCCA6}|Lib.Application\\Lib.Application.csproj|d:\\midassignment\\backend\\librarymanament\\lib.application\\dtos\\authdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9892B8D-4FEA-4756-B2E6-29B9323FCCA6}|Lib.Application\\Lib.Application.csproj|solutionrelative:lib.application\\dtos\\authdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130CD706-ECDC-45A6-A297-576A8B4F0134}|Lib.Infrastructure\\Lib.Infrastructure.csproj|d:\\midassignment\\backend\\librarymanament\\lib.infrastructure\\services\\bookborrowingrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130CD706-ECDC-45A6-A297-576A8B4F0134}|Lib.Infrastructure\\Lib.Infrastructure.csproj|solutionrelative:lib.infrastructure\\services\\bookborrowingrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EC1EE1-B5D6-465C-A235-82C4593515B4}|Lib.Persistence\\Lib.Persistence.csproj|d:\\midassignment\\backend\\librarymanament\\lib.persistence\\repositories\\bookborrowingrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EC1EE1-B5D6-465C-A235-82C4593515B4}|Lib.Persistence\\Lib.Persistence.csproj|solutionrelative:lib.persistence\\repositories\\bookborrowingrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EC1EE1-B5D6-465C-A235-82C4593515B4}|Lib.Persistence\\Lib.Persistence.csproj|d:\\midassignment\\backend\\librarymanament\\lib.persistence\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EC1EE1-B5D6-465C-A235-82C4593515B4}|Lib.Persistence\\Lib.Persistence.csproj|solutionrelative:lib.persistence\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40813A3-0F12-43E9-8359-004393B72643}|Lib.Domain\\Lib.Domain.csproj|d:\\midassignment\\backend\\librarymanament\\lib.domain\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40813A3-0F12-43E9-8359-004393B72643}|Lib.Domain\\Lib.Domain.csproj|solutionrelative:lib.domain\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130CD706-ECDC-45A6-A297-576A8B4F0134}|Lib.Infrastructure\\Lib.Infrastructure.csproj|d:\\midassignment\\backend\\librarymanament\\lib.infrastructure\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130CD706-ECDC-45A6-A297-576A8B4F0134}|Lib.Infrastructure\\Lib.Infrastructure.csproj|solutionrelative:lib.infrastructure\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9892B8D-4FEA-4756-B2E6-29B9323FCCA6}|Lib.Application\\Lib.Application.csproj|d:\\midassignment\\backend\\librarymanament\\lib.application\\abstractions\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9892B8D-4FEA-4756-B2E6-29B9323FCCA6}|Lib.Application\\Lib.Application.csproj|solutionrelative:lib.application\\abstractions\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130CD706-ECDC-45A6-A297-576A8B4F0134}|Lib.Infrastructure\\Lib.Infrastructure.csproj|d:\\midassignment\\backend\\librarymanament\\lib.infrastructure\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130CD706-ECDC-45A6-A297-576A8B4F0134}|Lib.Infrastructure\\Lib.Infrastructure.csproj|solutionrelative:lib.infrastructure\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\MidAssignment\\Backend\\LibraryManament\\LibraryManament\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "LibraryManament\\Controller\\AuthController.cs",
+              "ToolTip": "D:\\MidAssignment\\Backend\\LibraryManament\\LibraryManament\\Controller\\AuthController.cs",
+              "RelativeToolTip": "LibraryManament\\Controller\\AuthController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:29:31.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Application\\Dtos\\AuthDto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Lib.Application\\Dtos\\AuthDto\\RegisterDto.cs",
+              "ToolTip": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Application\\Dtos\\AuthDto\\RegisterDto.cs",
+              "RelativeToolTip": "Lib.Application\\Dtos\\AuthDto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:29:25.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Application\\Dtos\\AuthDto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Lib.Application\\Dtos\\AuthDto\\LoginDto.cs",
+              "ToolTip": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Application\\Dtos\\AuthDto\\LoginDto.cs",
+              "RelativeToolTip": "Lib.Application\\Dtos\\AuthDto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:29:24.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookBorrowingRequestRepository.cs",
+              "DocumentMoniker": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Persistence\\Repositories\\BookBorrowingRequestRepository.cs",
+              "RelativeDocumentMoniker": "Lib.Persistence\\Repositories\\BookBorrowingRequestRepository.cs",
+              "ToolTip": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Persistence\\Repositories\\BookBorrowingRequestRepository.cs",
+              "RelativeToolTip": "Lib.Persistence\\Repositories\\BookBorrowingRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:28:36.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookBorrowingRequestService.cs",
+              "DocumentMoniker": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Infrastructure\\Services\\BookBorrowingRequestService.cs",
+              "RelativeDocumentMoniker": "Lib.Infrastructure\\Services\\BookBorrowingRequestService.cs",
+              "ToolTip": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Infrastructure\\Services\\BookBorrowingRequestService.cs",
+              "RelativeToolTip": "Lib.Infrastructure\\Services\\BookBorrowingRequestService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T04:32:56.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Domain\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Lib.Domain\\Repositories\\IBookRepository.cs",
+              "ToolTip": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Domain\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "Lib.Domain\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T04:31:58.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\MidAssignment\\Backend\\LibraryManament\\LibraryManament\\Controller\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryManament\\Controller\\BookController.cs",
+              "ToolTip": "D:\\MidAssignment\\Backend\\LibraryManament\\LibraryManament\\Controller\\BookController.cs",
+              "RelativeToolTip": "LibraryManament\\Controller\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:17:59.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Infrastructure\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Lib.Infrastructure\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Infrastructure\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Lib.Infrastructure\\Services\\CategoryService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T04:32:50.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Persistence\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Lib.Persistence\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Persistence\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Lib.Persistence\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T04:31:44.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Application\\Abstractions\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "Lib.Application\\Abstractions\\Services\\IBookService.cs",
+              "ToolTip": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Application\\Abstractions\\Services\\IBookService.cs",
+              "RelativeToolTip": "Lib.Application\\Abstractions\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:46:06.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Infrastructure\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Lib.Infrastructure\\Services\\BookService.cs",
+              "ToolTip": "D:\\MidAssignment\\Backend\\LibraryManament\\Lib.Infrastructure\\Services\\BookService.cs",
+              "RelativeToolTip": "Lib.Infrastructure\\Services\\BookService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:20:05.152Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 101,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
